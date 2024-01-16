@@ -48,7 +48,7 @@ body {
     height: 3rem;
 }
 
-.text-box {
+.header__text-box {
     position: absolute;
 
     top: 50%;
